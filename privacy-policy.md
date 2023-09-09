@@ -1,40 +1,56 @@
-# Privacy Policy
+ Privacy Policy
 
-medtrack takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
+Medtrack respects your privacy and is committed to protecting your personal information. This privacy policy explains how we collect, use, and share your personal information when you use our app.
+
+What personal information do we collect?
+
+We collect the following personal information from you:
+
+Health information: This includes your height, weight, age, medical history, and medical docs.
+Contact information: This includes your name, email address, and phone number.
+Usage information: This includes information about how you use our app, such as the features you use and the pages you visit.
+How do we use your personal information?
+
+We use your personal information to provide the best possible experience with our app. This includes using your information to:
+
+Create and manage your account
+Track your body vitals
+Provide you with access to your medical records
+Improve our app and services
+
+How do we protect your personal information?
+
+We take the security of your personal information seriously. We use industry-standard security measures to protect your information, including encryption and access controls.
+
+We also store your personal information in Firebase, a secure cloud storage service. Firebase complies with the General Data Protection Regulation (GDPR), a set of data protection laws in the European Union.
+
+Who do we share your personal information with?
+
+We will not share your personal information with anyone other than our third-party partners who are helping us provide our app and services, and we will only share it for the purposes that you have authorized.
+
+This means that we will not share your personal information with:
+
+Other users of our app
+Advertisers
+Analytics providers
+Cloud storage providers
+Any other third party, unless you have explicitly consented to us doing so.
+Your rights
+
+You have the right to access, correct, or delete your personal information. You can also request that we stop using your personal information. To do this, please contact us at ahmedabdelfattahahmed97@gmail.com
+
+Changes to this privacy policy
+
+We may update this privacy policy from time to time. Any changes will be posted on this page.
+
+Contact us
+
+If you have any questions about this privacy policy, please contact us at  ahmedabdelfattahahmed97@gmail.com
 
 
-## Collection of Routine Information
+Additional information
 
-This app track basic information about their users This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific user to this app. The information is tracked for routine administration and maintenance purposes.
-
-
-## Cookies
-
-Where necessary, this app uses cookies to store information about a visitor’s preferences and history in order to better serve the users and/or present the users with customized content.
-
-
-## Advertisement and Other Third Parties
-
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track users activities on this app in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This aoo has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
-
-
-## Links to Third Party Websites
-
-we have included links on this app for your use and reference. we are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
-
-
-## Security
-
-The security of your personal information is important to us but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-
-## Changes To This Privacy Policy
-
-This Privacy Policy is effective as of 9/2023 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-we reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy,we will notify you either through the email address you have provided us , or by placing a prominent notice on our app
-
-
-## Contact Information
-
-For any questions or concerns regarding the privacy policy, please send us an email to ahmedabdelfattahahmed97@gmail.com
+We will only collect medical docs that you explicitly consent to sharing.
+We will not share your medical docs with anyone other than our third-party partners who are helping us provide our app and services, and we will only share them for the purposes that you have authorized.
+We will take all reasonable steps to protect your medical docs but cannot guarantee their absolute security.
+We store your personal information in Firebase, a secure cloud storage service. Firebase complies with the General Data Protection Regulation (GDPR), a set of data protection laws in the European Union.
